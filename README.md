@@ -1,5 +1,3 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQGsO_MafKalKQ/profile-displaybackgroundimage-shrink_350_1400/0/1683419372969?e=1692835200&v=beta&t=J6umR7O5VY8j8GrYMhtaj7uDphJH-wH3LdaasBoJodw" alt="ferrarolucasmartin" />
-
 <h1 align="center">Hi 👋, I'm Lucas Ferraro</h1>
 
 <h3 align="right">Connect with me:</h3>
